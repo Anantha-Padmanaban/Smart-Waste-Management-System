@@ -17,4 +17,6 @@ The primary purpose of this project is to investigate and test a method for dete
 The existing manually constructed model and its modification, as well as traditional machine learning algorithms such as Artificial Neural Networks, K-nearest neighbors, Linear Regression, Support Vector Machine, and Random Forest, are among the methodologies explored. The existing manually constructed model's classification accuracy and recall were improved from 86.8% and 47.9% to 99.1% and 98.2% thanks to the introduction of machine learning algorithms. The Random Forest classifier, which was the highest performing option, enhanced the quality of forecasts for recycling container emptying times. The highest performing solution increased accuracy by 12.3% and recall by 50.3 percent, while also increasing the FI score by 0.347 and the MCC score by 0.366 percent
 
 
+
+
 ![image](https://user-images.githubusercontent.com/106669003/194737407-ba3ac48a-44f3-4778-993e-03d04e9d171f.png)
