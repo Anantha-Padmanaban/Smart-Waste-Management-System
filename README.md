@@ -6,3 +6,10 @@ One of the most significant issues created by the expanding urbanization is garb
 Waste disposal has a large impact on both factors, and optimizing it can increase the positive effects greatly. Simultaneously, there is a clear requirement that recycling bins be emptied on a regular basis to ensure them clean. Meeting this condition is tough in a situation with thousands of recycling stations (each one with numerous containers) distributed across a large geographic area. 
 
 A Smart Trash Management system that combines Internet of Things components is an enabling technology for tackling waste transportation optimization challenges. It will allow each recycling container to keep track of how full it is. The advanced ability of such a system will enable the forecast of a recycling container's estimated emptying time, i.e. whenever the bin container's filling level reaches a threshold value. By predicting fill levels, superfluous transportation can be avoided without violating the overfilling rule.
+
+The primary purpose of this project is to investigate and test a method for determining when a container has been emptied. This issue can be broken down into the following subissues:
+1. Examine and assess the legacy solution's strengths and limitations.
+2. Compile statistics to estimate the legacy solution's confidence level, which will be utilized as a baseline for the alternative alternatives.
+3. Research a variety of strategies that might be used to solve the problem. 
+4. Put one or more of the most promising solutions uncovered during the study phase into practise and test them.
+5. Examine the findings, compare them to the legacy solution, and draw implications for future enhancements
