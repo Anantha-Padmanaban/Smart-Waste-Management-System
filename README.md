@@ -1,5 +1,5 @@
 # Smart-Waste-Management-System
-========================
+============================================================
 
 One of the most significant issues created by the expanding urbanization is garbage management. Several steps make to an effective method for dealing with the waste management problem. To begin, we must consume things in a sensible manner in order to eliminate unnecessary waste. Following that, garbage disposal should be done in a systematic manner. Finally, garbage should be recycled to the greatest extent possible. Economic and environmental considerations should be taken into account when implementing these steps. 
 
